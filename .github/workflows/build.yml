@@ -19,9 +19,9 @@ env:
   main_project_module: app
 
   # The name of the Play Store
-  playstore_name: IIECat.
+  playstore_name: IIECat
 
-on:
+  on:
 #Where release is writen , must match your branch name , I would suggest cloning your branch  at the end called release so it only builds the final code called release
   push:
     branches:
@@ -100,7 +100,7 @@ jobs:
           path: ${{ env.main_project_module }}/build/outputs/bundle/release/
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+  jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
