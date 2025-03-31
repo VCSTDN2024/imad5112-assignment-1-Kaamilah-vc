@@ -21,3 +21,7 @@ The main objective of the application is to give users  easly food options accor
 
 ## App Purpose and Features
 
+### Purpose:
+The main goal of the Meal Suggestion App is to help users find meal ideas for different times of the day. Whether it’s breakfast, lunch, or dinner, the app offers a quick and easy way to decide what to eat.
+
+
