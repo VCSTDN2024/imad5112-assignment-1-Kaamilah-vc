@@ -1,4 +1,4 @@
-name: VI
+name: CI
 
 env:
   # The name of the main module repository
