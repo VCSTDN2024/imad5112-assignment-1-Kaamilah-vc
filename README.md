@@ -1,4 +1,4 @@
-### **README Structure for Android App Development Assignment**
+
 
 
 # On the Go Meal
