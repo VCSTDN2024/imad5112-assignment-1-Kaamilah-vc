@@ -7,8 +7,8 @@
 - **Group**: GROUP 1
 - **Course**: Higher Certificate in Mobile Application and Web Development
 - **Subject**: IMAD
--
--## Links
+
+## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-1-Kaamilah-vc.git
 - **YouTube Video**: [YouTube Video Link]
 
