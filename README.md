@@ -10,7 +10,7 @@
 
 ## Links
 - **GitHub Repository**: https://github.com/VCSTDN2024/imad5112-assignment-1-Kaamilah-vc.git
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: https://youtu.be/Ch6aWn5W2-E
 
 ## Project Overview
 
