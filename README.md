@@ -60,12 +60,17 @@ Screenshots and App Demo
 ---------------------------
 
 ![image](https://github.com/user-attachments/assets/7f421be7-f212-43db-bb12-436cff3af701)
-
+Caption for screenshot 1:
 
 
 
 
 ![image](https://github.com/user-attachments/assets/9874e41d-86ca-4e55-a049-6289507ea217)
+ Caption for screenshot 1: The main screen where users input the time of day for meal suggestions.
+
+
+
+
 
 ### Video Demo:
 https://youtu.be/Ch6aWn5W2-E
